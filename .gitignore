@@ -1,0 +1,16 @@
+# General
+.DS_Store
+.idea/
+.vscode/
+
+# Backend (Spring/Maven)
+backend/target/
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/*.log
+
+# Frontend (Angular/Node)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
